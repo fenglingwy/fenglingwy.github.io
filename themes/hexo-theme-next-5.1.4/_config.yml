@@ -149,7 +149,7 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  Title: http://example.com/
+  CSDN: http://blog.csdn.net/qq_34483204?viewmode=list
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
